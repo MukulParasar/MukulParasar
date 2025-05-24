@@ -25,5 +25,11 @@
 
 ---
 
+### 🚀 Featured Projects
+- [Currency Converter](https://github.com/MukulParasar/web-development-initi/tree/main/javascript/CurrencyConverter) – A currency converter built using HTML, CSS, and JavaScript.
+- [Rock Paper Scissor Game](https://github.com/MukulParasar/web-development-initi/tree/main/javascript/sPSGame) - A rock paper scissor game built using HTML, CSS, and JavaScript.
+
+---
+
 ### 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/mukul024) | [GitHub](https://github.com/MukulParasar)
