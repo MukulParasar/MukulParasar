@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Mukul]
+# 👋 Hi there! I'm Mukul
 
 **MERN Stack Developer | DSA Practitioner | Tech Enthusiast**
 
