@@ -26,8 +26,10 @@
 ---
 
 ### 🚀 Featured Projects
-- [Currency Converter](https://github.com/MukulParasar/web-development-initi/tree/main/javascript/CurrencyConverter) – A currency converter built using HTML, CSS, and JavaScript.
-- [Rock Paper Scissor Game](https://github.com/MukulParasar/web-development-initi/tree/main/javascript/sPSGame) - A rock paper scissor game built using HTML, CSS, and JavaScript.
+- [Social Connect](https://github.com/MukulParasar/SocialConnect) – A full-stack social media platform/application built with React, Express.js, and PostgreSQL.
+- [ChatFlow](https://github.com/MukulParasar/ChatFlow) - A modern real-time chat application built with React, Express.js, and Socket.io WebSocket technology.
+- [LocalStore E-commerce Website](https://github.com/MukulParasar/LocalStoreE-commercePlatform) - A modern full-stack e-commerce application built with React and Express.js, featuring a complete product catalog and shopping cart functionality.
+- [Employee Management System](https://github.com/MukulParasar/EmployeeManagementSystem) - A full-stack employee management system(web application) built with modern web technologies providing a secure, admin-only interface for managing employee records with comprehensive CRUD operations, search functionality, and professional UI components.
 
 ---
 
