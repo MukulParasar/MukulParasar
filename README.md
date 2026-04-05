@@ -1,23 +1,56 @@
-## Hi, I'm Mukul
+## Hi, I'm Mukul 👋
 
-B.Tech Computer Science student (2023–2027) focused on Java, Data Structures & Algorithms and backend development.
+Java Backend Developer focused on building scalable APIs and strong problem-solving skills.
 
-### Currently Working On
-- Student Management System using Java, JDBC and MySQL  
-- Strengthening DSA and problem solving in Java (LeetCode)  
-- Learning backend fundamentals and REST API development  
+🎓 B.Tech CSE (2023–2027) | Uttaranchal University
 
-### Skills
-- Java, SQL, JavaScript  
-- Data Structures & Algorithms, OOP  
-- Node.js, Express.js, MongoDB, REST APIs  
-- Git, GitHub, IntelliJ, VS Code  
+---
 
-### About
-Previously explored MERN stack development through practice projects and internships, gaining understanding of full-stack workflows and version control.
+## 🚀 What I'm Doing
 
-Currently focused on becoming strong in backend and software engineering fundamentals and actively seeking Software/Java/Backend Internship opportunities.
+- Building backend systems using **Java, Spring Boot, SQL**
+- Solved **75+ DSA problems** on LeetCode (Java)
+- Practicing core patterns: Arrays, Binary Search, HashMap, Sliding Window
+- Working on **production-level projects** (JWT Auth, URL Shortener)
 
-### Links
-LinkedIn: https://linkedin.com/in/mukul024  
-LeetCode: https://leetcode.com/u/mukul_parashar/  
+---
+
+## 🛠️ Tech Stack
+
+- **Backend:** Java, Spring Boot, REST APIs  
+- **Database:** MySQL, PostgreSQL, MongoDB  
+- **Core CS:** Data Structures & Algorithms, OOP  
+- **Tools:** Git, GitHub, IntelliJ IDEA, VS Code  
+- **Basic:** React.js, Node.js  
+
+---
+
+## 📌 Projects
+
+### 🔹 Student Registration System
+- Built using React, Spring Boot, and MongoDB  
+- Designed REST APIs and backend architecture (Controller-Service-Repository)  
+- Implemented CRUD operations and frontend-backend integration  
+
+👉 https://github.com/MukulParasar/student-registration-system
+
+---
+
+## 📈 DSA Progress
+
+- 75+ problems solved on LeetCode  
+- 50-day consistency streak  
+- Contest Rating: ~1466  
+
+---
+
+## 🎯 Goal
+
+Currently looking for **Backend / Java / Software Engineering Internship** opportunities.
+
+---
+
+## 🔗 Connect
+
+- LinkedIn: https://www.linkedin.com/in/mukul024/  
+- LeetCode: https://leetcode.com/u/mukul_parashar/
