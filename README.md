@@ -9,7 +9,7 @@ Java Backend Developer focused on building scalable APIs and strong problem-solv
 ## 🚀 What I'm Doing
 
 - Building backend systems using **Java, Spring Boot, SQL**
-- Solved **75+ DSA problems** on LeetCode (Java)
+- Solved **80+ DSA problems** on LeetCode (Java)
 - Practicing core patterns: Arrays, Binary Search, HashMap, Sliding Window
 - Working on **production-level projects** (JWT Auth, URL Shortener)
 
