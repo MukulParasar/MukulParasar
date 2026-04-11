@@ -38,9 +38,9 @@ Java Backend Developer focused on building scalable APIs and strong problem-solv
 
 ## 📈 DSA Progress
 
-- 75+ problems solved on LeetCode  
+- 80+ problems solved on LeetCode  
 - 50-day consistency streak  
-- Contest Rating: ~1466  
+- Contest Rating: ~1476  
 
 ---
 
