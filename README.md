@@ -1,56 +1,55 @@
 ## Hi, I'm Mukul 👋
 
-Java Backend Developer focused on building scalable APIs and strong problem-solving skills.
+Backend Developer focused on building scalable systems using Java and Spring Boot.
 
 🎓 B.Tech CSE (2023–2027) | Uttaranchal University
 
 ---
 
-## 🚀 What I'm Doing
+## 🚀 What I'm Building
 
-- Building backend systems using **Java, Spring Boot, SQL**
-- Solved **90+ DSA problems** on LeetCode (Java)
-- Practicing core patterns: Arrays, Binary Search, HashMap, Sliding Window
-- Working on **production-level projects** (JWT Auth, URL Shortener)
+- Scalable backend systems using **Java, Spring Boot, REST APIs**
+- Structured architectures (Controller → Service → Repository)
+- Projects with real-world features (authentication, API design)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Backend:** Java, Spring Boot, REST APIs  
-- **Database:** MySQL, PostgreSQL, MongoDB  
-- **Core CS:** Data Structures & Algorithms, OOP  
-- **Tools:** Git, GitHub, IntelliJ IDEA, VS Code  
-- **Basic:** React.js, Node.js  
+**Backend:** Java, Spring Boot  
+**Database:** MySQL, MongoDB  
+**Core:** Data Structures & Algorithms, OOP  
+**Tools:** Git, GitHub, IntelliJ, VS Code  
 
 ---
 
 ## 📌 Projects
 
 ### 🔹 Student Registration System
-- Built using React, Spring Boot, and MongoDB  
-- Designed REST APIs and backend architecture (Controller-Service-Repository)  
-- Implemented CRUD operations and frontend-backend integration  
+- Full-stack app using React, Spring Boot, MongoDB  
+- Designed REST APIs and backend architecture  
+- Implemented CRUD operations and API integration  
 
 👉 https://github.com/MukulParasar/student-registration-system
 
 ---
 
-## 📈 DSA Progress
+## 📈 Problem Solving
 
-- 85+ problems solved on LeetCode  
-- 50-day consistency streak  
-- Contest Rating: ~1476  
+- Solved 90+ DSA problems (Java)  
+- Focus: Arrays, Binary Search, Hashing, Sliding Window  
+- Regular practice and pattern-based learning  
 
 ---
 
-## 🎯 Goal
+## 🎯 Current Focus
 
-Currently looking for **Backend / Java / Software Engineering Internship** opportunities.
+- Building production-level backend systems  
+- Strengthening DSA and system design fundamentals  
 
 ---
 
 ## 🔗 Connect
 
-- LinkedIn: https://www.linkedin.com/in/mukul024/  
-- LeetCode: https://leetcode.com/u/mukul_parashar/
+LinkedIn: https://www.linkedin.com/in/mukul024/  
+LeetCode: https://leetcode.com/u/mukul_parashar/
