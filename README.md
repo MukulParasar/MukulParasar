@@ -36,7 +36,7 @@ Backend Developer focused on building scalable systems using Java and Spring Boo
 
 ## 📈 Problem Solving
 
-- Solved 90+ DSA problems (Java)  
+- Solved 100+ DSA problems (Java)  
 - Focus: Arrays, Binary Search, Hashing, Sliding Window  
 - Regular practice and pattern-based learning  
 
