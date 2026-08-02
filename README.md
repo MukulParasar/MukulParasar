@@ -13,7 +13,7 @@ Backend Developer building real systems with Java and Spring Boot — focused on
 
 A Spring Boot backend that solves three genuinely hard problems: stopping untrusted relay phones from reading or tampering with payments (hybrid RSA-OAEP + AES-GCM), preventing the same payment from settling twice when multiple phones upload it simultaneously (atomic idempotency via ciphertext hashing), and blocking replay attacks (encrypted freshness timestamps). Includes a concurrency test that fires 3 threads at the same packet and asserts exactly 1 SETTLED, 2 DUPLICATE_DROPPED.
 
-**Live demo:** [upi-offline-mesh-production-5c2a.up.railway.app](https://upi-offline-mesh-production-5c2a.up.railway.app/) &nbsp;|&nbsp; **[GitHub →](https://github.com/MukulParasar/upi-offline-mesh)**
+**Live demo:** [upi-offline-mesh-production-5c2a.up.railway.app](https://upi-offline-mesh-production-dd25.up.railway.app/) &nbsp;|&nbsp; **[GitHub →](https://github.com/MukulParasar/upi-offline-mesh)**
 
 `Java` `Spring Boot` `AES-GCM` `RSA-OAEP` `Idempotency` `Distributed Systems`
 
