@@ -31,7 +31,7 @@ A Spring Boot backend that solves three genuinely hard problems: stopping untrus
 ## 📈 Problem Solving
 
 - 150+ DSA problems solved in Java
-- Focus: Arrays, Hashmaps, Binary Search, Sliding Window, Two Pointers
+- Focus: Arrays, Hashmaps, Binary Search, Sliding Window, Two Pointers, Trees, Graphs
 - Platform: LeetCode → [mukul_parashar](https://leetcode.com/u/mukul_parashar/)
 
 ---
