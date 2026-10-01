@@ -48,4 +48,4 @@ A Spring Boot backend that solves three genuinely hard problems: stopping untrus
 
 ## 🔗 Connect
 
-[LinkedIn](https://www.linkedin.com/in/mukul024/) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/u/mukul_parashar/)
+[LinkedIn](https://www.linkedin.com/in/mukul024/) &nbsp;·&nbsp; [X](https://x.com/parasar_mukul)
