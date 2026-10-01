@@ -22,7 +22,7 @@ A Spring Boot backend that solves three genuinely hard problems: stopping untrus
 ## 🛠️ Tech Stack
 
 **Backend:** Java, Spring Boot, REST APIs, Spring Security, Spring Data JPA  
-**Database:** PostgreSQL, MySQL, H2  
+**Database:** PostgreSQL, MySQL, MongoDB, H2  
 **Tools:** Git, IntelliJ, Docker (basics), Postman  
 **CS Fundamentals:** DSA, OOP, System Design (basics)
 
@@ -32,7 +32,10 @@ A Spring Boot backend that solves three genuinely hard problems: stopping untrus
 
 - 150+ DSA problems solved in Java
 - Focus: Arrays, Hashmaps, Binary Search, Sliding Window, Two Pointers, Trees, Graphs
-- Platform: LeetCode → [mukul_parashar](https://leetcode.com/u/mukul_parashar/)
+- Platform:
+  - LeetCode → [mukul_parashar](https://leetcode.com/u/mukul_parashar/)
+  - Codeforces → [mukul_parashar](https://codeforces.com/profile/mukul_parashar)
+  - GeeksforGeeks → [parasharmukul](https://www.geeksforgeeks.org/profile/parasharmukul?tab=activity)
 
 ---
 
